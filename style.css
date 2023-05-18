@@ -1,0 +1,8 @@
+#container{
+    display: grid;
+    /*
+    comentário
+    */
+    grid-template-columns: 1fr 2fr;
+  
+}
